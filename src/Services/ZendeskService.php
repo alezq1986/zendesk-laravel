@@ -5,6 +5,10 @@ use Zendesk\API\HttpClient;
 
 class ZendeskService {
 
+    protected $subdomain;
+    protected $username;
+    protected $token;
+    protected $client;
     /**
      * Get auth parameters from config, fail if any are missing.
      * Instantiate API client and set auth token.
