@@ -1,16 +1,16 @@
 {
-    "name": "huddledigital/zendesk-laravel",
+    "name": "alezq1986/zendesk-laravel",
     "type": "library",
-    "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
+    "description": "Fork of huddledigital. Laravel wrapper for zendesk/zendesk_api_client_php package",
     "keywords": [
         "zendesk"
     ],
-    "homepage": "http://workwithhuddle.com",
+    "homepage": "",
     "license": "MIT",
     "authors": [
         {
-            "name": "Huddle Digital Ltd",
-            "email": "info@workwithhuddle.com"
+            "name": "",
+            "email": ""
         }
     ],
     "require": {

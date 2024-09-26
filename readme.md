@@ -1,3 +1,6 @@
+# Fork
+This is a fork of huddledigital/zendesk-laravel solely created to fix warnings on dinamically created properties
+
 # Laravel Zendesk
 
 This package provides integration with the Zendesk API. It supports creating tickets, retrieving and updating tickets, deleting tickets, etc.
@@ -11,7 +14,7 @@ The package simply provides a `Zendesk` facade that acts as a wrapper to the [ze
 You can install this package via Composer using:
 
 ```bash
-composer require huddledigital/zendesk-laravel
+composer require alezq1986/zendesk-laravel
 ```
 
 You must also install the service provider.
