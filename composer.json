@@ -5,12 +5,11 @@
     "keywords": [
         "zendesk"
     ],
-    "homepage": "",
     "license": "MIT",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "Alexandre Queiroz",
+            "email": "alexandre.zugaibdequeiroz@gmail.com"
         }
     ],
     "require": {
